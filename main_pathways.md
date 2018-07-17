@@ -59,6 +59,17 @@ The course schedule can be found [here](https://github.com/EWheeler123/Pathways_
 
   *<font color="#827e9c">Quaid Morris</font>*
   
-  [Lecture]
+  [Lecture](https://github.com/EWheeler123/Pathways_2015/blob/master/Pathways_2015_Module5.pdf)
   
   [Recording]
+  
+  # Day 3 <a id="day3"></a>
+
+## Module 6: Regulatory Network Analysis 
+
+*<font color="#827e9c">Micheal Hoffman</font>*
+
+[Lecture]
+
+[Recording](https://www.youtube.com/watch?v=tcRS32HZGww)
+  
