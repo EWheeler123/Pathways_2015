@@ -72,4 +72,8 @@ The course schedule can be found [here](https://github.com/EWheeler123/Pathways_
 [Lecture]
 
 [Recording](https://www.youtube.com/watch?v=tcRS32HZGww)
+
+***
+
+Thank you for attending the Pathway and Network Analysis of Omics Data workshop!
   
