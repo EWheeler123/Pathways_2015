@@ -61,7 +61,7 @@ The course schedule can be found [here](https://github.com/EWheeler123/Pathways_
   
   [Lecture](https://github.com/EWheeler123/Pathways_2015/blob/master/Pathways_2015_Module5.pdf)
   
-  [Recording]
+  [Recording](https://www.youtube.com/watch?v=-hbMFRoTMVA)
   
   # Day 3 <a id="day3"></a>
 
