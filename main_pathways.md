@@ -33,6 +33,14 @@ The course schedule can be found [here](https://github.com/EWheeler123/Pathways_
 
   *<font color="#827e9c">Quaid Morris</font>*
   
-  [Lecture]
+  [Lecture](https://github.com/EWheeler123/Pathways_2015/blob/master/Pathways_2015_Module2_Lecture.pdf)
   
   [Recording](https://www.youtube.com/watch?v=KurunZ4IciU&list=PL3izGL6oi0S-tZl2cUjRXZ5KJmCWIVhjg&index=2)
+  
+  ## Module 3: Network Visualization and Analysis with Cytoscape 
+
+ *<font color="#827e9c">Gary Bader</font>*  
+  
+  [Lecture]
+  
+  [Recording](https://www.youtube.com/watch?v=wjuVCF9_D-Y&index=3&list=PL3izGL6oi0S-tZl2cUjRXZ5KJmCWIVhjg)
