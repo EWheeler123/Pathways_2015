@@ -13,4 +13,26 @@ length: 3 days
 
 Welcome to Pathways and Network Analysis of -Omics Data 2015.  
 
-The course schedule can be found [here](
+The course schedule can be found [here](https://github.com/EWheeler123/Pathways_2015/blob/master/Pathways_2015_Schedule_v3.xlsx) 
+
+***
+
+##  Welcome 
+
+  *<font color="#827e9c">Ann Meyer</font>* 
+
+##  Module 1: Introduction to Pathway and Network Analysis 
+
+  *<font color="#827e9c">Gary Bader</font>*
+  
+  [Lecture]
+  
+  [Recording](https://www.youtube.com/watch?v=EhZH2Yl75CA&t=0s&index=2&list=PL3izGL6oi0S-tZl2cUjRXZ5KJmCWIVhjg)
+  
+  ##  Module 2 Finding Over-Represented Pathways in Gene Lists
+
+  *<font color="#827e9c">Quaid Morris</font>*
+  
+  [Lecture]
+  
+  [Recording](https://www.youtube.com/watch?v=KurunZ4IciU&list=PL3izGL6oi0S-tZl2cUjRXZ5KJmCWIVhjg&index=2)
