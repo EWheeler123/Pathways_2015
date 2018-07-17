@@ -51,6 +51,14 @@ The course schedule can be found [here](https://github.com/EWheeler123/Pathways_
 
   *<font color="#827e9c">Lincoln Stein and Robin Haw</font>*
   
-  [Lecture]
+  [Lecture](https://github.com/EWheeler123/Pathways_2015/blob/master/Pathways_2015_Module4_Lecture.pdf)
   
   [Recording](https://www.youtube.com/watch?v=FQgE8BpG1OU&index=4&list=PL3izGL6oi0S-tZl2cUjRXZ5KJmCWIVhjg)
+  
+  ##  Module 5: Gene Function Prediction  
+
+  *<font color="#827e9c">Quaid Morris</font>*
+  
+  [Lecture]
+  
+  [Recording]
