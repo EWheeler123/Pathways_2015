@@ -25,7 +25,7 @@ The course schedule can be found [here](https://github.com/EWheeler123/Pathways_
 
   *<font color="#827e9c">Gary Bader</font>*
   
-  [Lecture]
+  [Lecture](https://github.com/EWheeler123/Pathways_2015/blob/master/Pathways_2015_Module1_Lecture.pdf)
   
   [Recording](https://www.youtube.com/watch?v=EhZH2Yl75CA&t=0s&index=2&list=PL3izGL6oi0S-tZl2cUjRXZ5KJmCWIVhjg)
   
