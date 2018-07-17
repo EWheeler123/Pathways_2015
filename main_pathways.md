@@ -41,6 +41,16 @@ The course schedule can be found [here](https://github.com/EWheeler123/Pathways_
 
  *<font color="#827e9c">Gary Bader</font>*  
   
-  [Lecture]
+  [Lecture](https://github.com/EWheeler123/Pathways_2015/blob/master/Pathways_2015_Module3.pdf)
   
   [Recording](https://www.youtube.com/watch?v=wjuVCF9_D-Y&index=3&list=PL3izGL6oi0S-tZl2cUjRXZ5KJmCWIVhjg)
+  
+  # Day 2 <a id="day2"></a>
+
+##  Module 4: More Depth on Network and Pathway Analysis 
+
+  *<font color="#827e9c">Lincoln Stein and Robin Haw</font>*
+  
+  [Lecture]
+  
+  [Recording](https://www.youtube.com/watch?v=FQgE8BpG1OU&index=4&list=PL3izGL6oi0S-tZl2cUjRXZ5KJmCWIVhjg)
